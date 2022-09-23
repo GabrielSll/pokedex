@@ -57,4 +57,5 @@ buttonNext.addEventListener('click', () => {
     renderPokemon(searchPokemon);
 })
 
+// renderizador de pokemon
 renderPokemon(searchPokemon)
