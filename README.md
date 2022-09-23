@@ -8,10 +8,10 @@ para o mesmo.
 - Basta baixar o código em formato zip.
 - Rodar o arquivo com live server.
 
-<img src = "screenshots/bulbasaur.jng">
-<img src = "screenshots/charmander.jng">
-<img src = "screenshots/pikachu.jng">
-<img src = "screenshots/scyther.jng">
+<img src = "screenshots/bulbasaur.jpg">
+<img src = "screenshots/charmander.jpg">
+<img src = "screenshots/pikachu.jpg">
+<img src = "screenshots/scyther.jpg">
 
 ## Tecnologias e Dependências
 
