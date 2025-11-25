@@ -8,11 +8,6 @@ para o mesmo.
 - Basta baixar o código em formato zip.
 - Rodar o arquivo com live server.
 
-<img src = "screenshots/bulbasaur.jpg">
-<img src = "screenshots/charmander.jpg">
-<img src = "screenshots/pikachu.jpg">
-<img src = "screenshots/scyther.jpg">
-
 ## Tecnologias e Dependências
 
 | Name | Link |
